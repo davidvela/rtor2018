@@ -6,9 +6,10 @@ Real Time Ocuppancy Ratings <br>
 
 
 This challenge was tackled using several approachs: 
-1. Laser sensors 
-2. Weights sensors 
-3. Image recognition locally using video camaras 
+1. Bluetooth sensor 
+2. Laser sensors 
+3. Weights sensors 
+4. Image recognition locally using video camaras 
 
 The results will be displayed using a google extension. 
 
